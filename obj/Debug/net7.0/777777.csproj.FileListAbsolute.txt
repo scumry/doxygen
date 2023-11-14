@@ -1,0 +1,14 @@
+C:\Users\maldi\OneDrive\Рабочий стол\777777\bin\Debug\net7.0\777777.exe
+C:\Users\maldi\OneDrive\Рабочий стол\777777\bin\Debug\net7.0\777777.deps.json
+C:\Users\maldi\OneDrive\Рабочий стол\777777\bin\Debug\net7.0\777777.runtimeconfig.json
+C:\Users\maldi\OneDrive\Рабочий стол\777777\bin\Debug\net7.0\777777.dll
+C:\Users\maldi\OneDrive\Рабочий стол\777777\bin\Debug\net7.0\777777.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\777777.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\777777.AssemblyInfoInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\777777.AssemblyInfo.cs
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\777777.csproj.CoreCompileInputs.cache
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\777777.dll
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\refint\777777.dll
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\777777.pdb
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\777777.genruntimeconfig.cache
+C:\Users\maldi\OneDrive\Рабочий стол\777777\obj\Debug\net7.0\ref\777777.dll
